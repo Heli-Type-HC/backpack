@@ -2,4 +2,4 @@
 #include <string.h>
 #include <stdlib.h>
 
-printf("The maximum value is 680");
+printf("The maximum value is 660");
